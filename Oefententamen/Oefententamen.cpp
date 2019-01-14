@@ -11,7 +11,7 @@ const int MAX_2_1 = 7;
 double metersNaarMijlen(double meters);
 void printAfstanden(double beginpunt, double snelheid, double tijdsinterval, int aantalwaarden);
 char hoogsteLetter(const char a[], int lengte);
-char bepaalHoogsteEnLaagsteLetter(char a[], int lengte);
+char laagsteLetter(char a[], int lengte);
 
 void opdr1();
 void opdr2();
@@ -53,7 +53,7 @@ void opdr2() {
 	h = hoogsteLetter(a, MAX_2_1);
 
 	// 2.2
-	l = bepaalHoogsteEnLaagsteLetter(a, MAX_2_1);
+	l = laagsteLetter(a, MAX_2_1);
 
 	cout << "Hoogste letter: " << h << endl;
 	cout << "Laagste letter: " << l << endl;
@@ -112,7 +112,7 @@ char hoogsteLetter(const char a[], int lengte) {
 	return hf;
 }
 
-char bepaalHoogsteEnLaagsteLetter(char a[], int lengte) {
+char laagsteLetter(char a[], int lengte) {
 	char hoogste = hoogsteLetter(a, lengte);
 	char laagste = hoogste;
 	for (int i = 0; i < lengte; i++) {
