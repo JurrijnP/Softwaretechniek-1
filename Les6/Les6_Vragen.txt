@@ -1,0 +1,20 @@
+4.19
+	1. Een verwijzing naar een plek waar een byte is opgeslagen.
+	2. Het adres is de locatie van een variable, de waarde is de waarde.
+	3. Het bewaken van de bovengrens van een array. Dit is niet aanwezig in C++.
+	4. Een pointer is variabele waarin je een adres kan opbergen.
+	5. 'p++' verandert 'p' in het volgende adres van de array.
+	6.
+		a. 30
+		b. 4
+		c. 0
+	7. Met een pointer kun je langs de elementen van een C-array lopen.
+	8. Wanneer je een array alleen wilt gebruiken maar de waardes niet aangepast mogen worden.
+
+4.20
+	1. Zie 'gemiddelde();'.
+	2. Vanwege veiligheid gaan we dit niet doen.
+	6. Zie 'grootstewaarde();'.
+	8. Zie 'kopieer();'.
+   11. Zie 'som();'.
+   15. Zie 'verwijder();'.

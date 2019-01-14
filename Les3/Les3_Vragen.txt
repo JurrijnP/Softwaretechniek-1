@@ -1,0 +1,39 @@
+2.17
+	 1. 
+		a. false
+		b. true
+		c. true
+		d. true
+		e. true
+	 2. '<', '>', '!=', '==', '>=', '<='
+	 3. '||', '&&'
+	 4. false
+	 5. 
+		'!', '>', '&&', '<' Operator
+		'x', '5', '10'      Operand
+	 6. Initalisatie, Conditie, Verhoging, Body
+	 7. Nee.
+	 8. Nee.
+	 9. Ja.
+	10. Zie 'h2p17v10();'.
+	11. Zie 'h2p17v11();'.
+	12. 'cout << i;' valt buiten de scope.
+	13. Er zal niks gebeuren.
+	14. Allebij statement, switch makkelijker om meerdere opties te hebben.
+	15. Nee.
+	16. 'if' eenmalig, 'while' zolang het waar is.
+	17. 'do' is geen statement.
+	18. Zie 'h2p17v18();'.
+	19. 'while(true) {'
+	20. 'if' werkt alleen wanneer statement waar is, 'if-else' werkt als statement waar of niet waar is.
+	21. -
+2.18
+	 1. Zie 'h2p18v1();'.
+	 2. Zie 'h2p18v2();'.
+	 6. Zie 'h2p18v6();'.
+	 8. Zie 'h2p18v8();'.
+	10. Zie 'h2p18v10();'.
+	12. Zie 'h2p18v12();'. char 'ch' moet echter wel een waarde krijgen voordat dit werkt
+	13. Zie 'h2p18v13();'.
+	21. Zie 'h2p18v21();'.
+	24. Zie 'h2p18v24();'.

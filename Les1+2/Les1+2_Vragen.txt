@@ -1,0 +1,48 @@
+1.9
+	 1. Het vertalen van een translation unit naar een machinecode.
+	 2. De linker koppelt functies uit de standaard library aan de objectcode waarna er een uitvoerbaar programma ontstaat.
+	 3. Hier zal worden begonnen met het lezen van de code bij uitvoering.
+	 4. Noodzakelijke code om de compiler goed zijn werk te laten doen.
+	 5. '//'
+	 6. '#'
+	 7. 'cout'
+	 8. '<iostream>'
+	 9. Eerste zal de som niet verwerken en het als tekst printen terwijl de tweede eerst de som uitvoert en vervolgens dat resultaat print.
+	10. '<<', je stuurt hiermee iets naar 'cout'
+	11. Een constante mag na zijn eerste definiëring niet meer aangepast worden, dit mag bij een variable wel. 
+	12.
+		  Geheel: short, int, long, unsigned short, unsigned int, unsigned long
+		Ongeheel: double, float, long double
+	13. 
+		resultaat1 = 1
+	    resultaat2 = 6
+	14. Een 'cast' is een gedwongen typeconversie.
+	15. 1.85714
+	16. -
+	17. Toekenning
+	18. '+=', '-=', '*=', '%=' en '|=', '^=' & '&=' voor bit operatoren.
+	19. Gedeelte van het programma waarin een variable/constante kan worden gebruikt.
+	20. 114
+	21. In dit geval niets.
+
+1.10
+	  1.
+		 a. 10 / 2 * 5 => 25
+		     4 / 5 * 2 => 0
+			 2 * 4 / 5 => 1
+		 b. Voer functie 'h1p10v1b()' uit.
+		 c. Gelijke prioriteit.
+	  2. Is voor mijn systeem wel zo alleen dit komt door Visual Studio. Windows is namelijk 64-bit.
+	  3. Voer functie 'h1p10v3()' uit.
+	  4. Variable krijgt waarde maximale waarde + 1 + negatieve waarde.
+	     Zie functie 'h1p10v4()'.
+	  5. Voer functie 'h1p10v5()' uit. Resultaat: geen afwijking bij float t.o.v. double.
+	  6. Voer functie 'h1p10v6()' uit. Resultaat: 'inf'.
+	  7. Voer functie 'h1p10v7()' uit. Resultaat: Kleiner dan kleinste double.
+  8 & 9. Voer functie 'h1p10vn8en9(vraag)' uit.
+		 vraag != 9 => vraag 8
+		 vraag == 9 => vraag 9
+	 10. Voer functie 'h1p10v10()' uit.
+11 & 12. Voer functie 'h1p10vn11en12(vraag)' uit.
+		 vraag != 12 => vraag 11
+		 vraag == 12 => vraag 12

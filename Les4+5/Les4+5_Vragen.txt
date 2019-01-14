@@ -1,0 +1,30 @@
+3.17
+	1. Declaratie van een functie die verder op zal worden op geroepen.
+	2. Het activeren van een functie.
+	3. Hierdoor is een functie vaak voor verschillende doeleinden bruikbaar.
+	4. '<cmath>'
+	5. 'return variable'.
+	6. Een gewoon argument wat alleen binnen zijn scoop kan worden aangepast.
+	7. Met een reference-argument kan je een geheel variabele doorgeven aan functie.
+	8. Een defaultargument is een argument van een prototype met een waarde.
+	9. Een reference-argument kan in tegenstelling tot een value-argument een variabele uit een andere scope aanpassen.
+   10. 'bewerk(1, 52);', 'bewerk(a,2);' zijn niet correct omdat 51 en 2 geen reference hebben.
+   11. Zie §3.14.
+   12. Zie §3.12 & §3.13.
+   13. Meerdere functies met zelfde naam, echter verschillend aantal argumenten.
+   14. 
+	   Lokaal variabele is geldig vanaf zijn declaratie tot het einde van de scope.
+	   Global variabele blijft het hele programma in leven en is overal aan te roepen omdat dit variable in de grootste scope valt.
+	   Statisch variabele wordt aangemaakt en blijft het hele programma in leven het is echter alleen binnen zijn eigen scope te gebruiken.
+   15. De variabele 'x' krijgt de waarde '( a * a + b * b )' doordat x gebruikt wordt in een reference-argument.
+	   Zonder de ampersand zou het programma een error geven omdat 'x' geen waarde heeft.
+
+3.18
+	1. Zie 'discriminant();'.
+	2. Zie 'volgendeletter();'.
+	4. Zie 'som();'.
+	5. Zie 'conversie();'.
+	6. Zie 'max();'.
+	7. Zie 'datum()'.
+	8. Zie 'max();'. (Met reference-argument)
+	9. Zie 'fac();'.
